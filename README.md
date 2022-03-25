@@ -9,9 +9,9 @@ El programa mostrado a continuación nos mostrara un ejemplo de 3 procesamientos
 
 ## Funcionamiento
 El programa main.py, nos muestra un pequeño menú en el cual tendremos 3 diferentes opciones:
--1) Sharpen
--2) Box Blur
--3) Edge Detection
+-1) Sharpen</br>
+-2) Box Blur</br>
+-3) Edge Detection</br>
 A traves de las cuales podremos acceder a estos 3 tipos de procesamiento.
 ## Convoluciones
 Es un operador matemático que transforma dos funciones en una tercera función que representa una versión trasladada de estas dos funciones.
@@ -32,8 +32,5 @@ Box Blur es un filtro lineal de dominio espacial en el que cada píxel de la ima
 ### Edge Detection
 Por Jonha Ramirez</br>
 Edge Detection incluye una variedad de métodos matemáticos que tienen como objetivo identificar bordes, curvas en una imagen digital.</br>
-
-
-
 
 
