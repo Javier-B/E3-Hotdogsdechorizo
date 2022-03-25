@@ -1,4 +1,5 @@
 # Equipo Hotdogs de Chorizo
+![Image text](https://github.com/Javier-B/E3-Hotdogsdechorizo/blob/main/hotdog.jpeg)
 ## Integrantes
 Jonny Ramirez A01769156</br>
 Daniel Amaya  A01769048</br>
@@ -31,5 +32,8 @@ Box Blur es un filtro lineal de dominio espacial en el que cada píxel de la ima
 ### Edge Detection
 Por Jonha Ramirez</br>
 Edge Detection incluye una variedad de métodos matemáticos que tienen como objetivo identificar bordes, curvas en una imagen digital.</br>
+
+
+
 
 
