@@ -8,7 +8,7 @@ Javier Jimenez A01769140</br>
 El programa mostrado a continuación nos mostrara un ejemplo de 3 procesamientos de imagenes que podemos realizar a traves del uso de los Kernel.
 
 ## Funcionamiento
-El programa main.py, nos muestra un pequeño menú en el cual tendremos 3 diferentes opciones:
+El programa main.py, nos muestra un pequeño menú en el cual tendremos 3 diferentes opciones:</br>
 -1) Sharpen</br>
 -2) Box Blur</br>
 -3) Edge Detection</br>
@@ -32,5 +32,8 @@ Box Blur es un filtro lineal de dominio espacial en el que cada píxel de la ima
 ### Edge Detection
 Por Jonha Ramirez</br>
 Edge Detection incluye una variedad de métodos matemáticos que tienen como objetivo identificar bordes, curvas en una imagen digital.</br>
+
+
+
 
 
