@@ -1,7 +1,23 @@
 # Equipo Hotdogs de Chorizo
 ![Image text](https://github.com/Javier-B/E3-Hotdogsdechorizo/blob/main/hotdog.jpeg)
-## No nos quedo
+</br>
+</br>
+## NO NOS QUEDO
 ![Image text](https://github.com/Javier-B/E3-Hotdogsdechorizo/blob/main/ia.jpeg)
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
@@ -57,6 +73,8 @@ Box Blur es un filtro lineal de dominio espacial en el que cada píxel de la ima
 ### Edge Detection
 Por Jonha Ramirez</br>
 Edge Detection incluye una variedad de métodos matemáticos que tienen como objetivo identificar bordes, curvas en una imagen digital.</br>
+
+
 
 
 
