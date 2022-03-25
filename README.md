@@ -1,5 +1,8 @@
 # Equipo Hotdogs de Chorizo
-
+## Integrantes
+Jonny Ramirez A01769156</br>
+Daniel Amaya  A01769048</br>
+Javier Jimenez A01769140</br>
 ## Objetivo
 El programa mostrado a continuación nos mostrara un ejemplo de 3 procesamientos de imagenes que podemos realizar a traves del uso de los Kernel.
 
@@ -28,7 +31,5 @@ Box Blur es un filtro lineal de dominio espacial en el que cada píxel de la ima
 ### Edge Detection
 Por Jonha Ramirez</br>
 Edge Detection incluye una variedad de métodos matemáticos que tienen como objetivo identificar bordes, curvas en una imagen digital.</br>
-
-
 
 
